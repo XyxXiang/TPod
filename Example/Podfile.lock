@@ -1,0 +1,16 @@
+PODS:
+  - TPod (0.1.0)
+
+DEPENDENCIES:
+  - TPod (from `../`)
+
+EXTERNAL SOURCES:
+  TPod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TPod: f1c266094d4ed7b82f84483a202bbfd29ac486ea
+
+PODFILE CHECKSUM: 119b53a792b76575b69e97333462e7fb6b5b5ba3
+
+COCOAPODS: 1.4.0
