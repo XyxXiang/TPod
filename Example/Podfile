@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TPod_Example' do
+  pod 'TPod', :path => '../'
+
+  target 'TPod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
